@@ -7,7 +7,7 @@ Felipe Pazmiño
 
 ## Instrucciones de uso:
 
-Antes de abrir el programa es necesario tener XAMPP <img src:"https://user-images.githubusercontent.com/85601974/182460428-e798db61-81c7-4002-a182-c3a890911da0.png" width: 90px height: 90px>
+Antes de abrir el programa es necesario tener XAMPP <img src:"https://user-images.githubusercontent.com/85601974/182460428-e798db61-81c7-4002-a182-c3a890911da0.png" width= "90px" height= "90px">
 
 Despues abrir XAMPP y empezar los servidores de Apache y MySQL para poder usar el login con nuestra base de datos. Creada anteriormente ![image](https://user-images.githubusercontent.com/85601974/182461027-48786c18-ddbc-41a3-bcb1-def7af7fd1cd.png)
 
