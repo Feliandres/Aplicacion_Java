@@ -7,10 +7,11 @@ Felipe Pazmiño
 
 ## Instrucciones de uso:
 
-Antes de abrir el programa es necesario tener XAMPP <img width= "90px" height= "90px" src= "https://user-images.githubusercontent.com/85601974/182460428-e798db61-81c7-4002-a182-c3a890911da0.png">
+Antes de abrir el programa es necesario tener XAMPP 
+<img width= "90px" height= "90px" src= "https://user-images.githubusercontent.com/85601974/182460428-e798db61-81c7-4002-a182-c3a890911da0.png">
 
-Despues abrir XAMPP y empezar los servidores de Apache y MySQL para poder usar el login con nuestra base de datos. Creada anteriormente ![image](https://user-images.githubusercontent.com/85601974/182461027-48786c18-ddbc-41a3-bcb1-def7af7fd1cd.png)
-
+Despues abrir XAMPP y empezar los servidores de Apache y MySQL para poder usar el login con nuestra base de datos. Creada anteriormente 
+![image](https://user-images.githubusercontent.com/85601974/182461027-48786c18-ddbc-41a3-bcb1-def7af7fd1cd.png)
 
 Abrir el programa Aplicacion de Java y loguearse con un email y contraseña que se encuentren en la base de datos
 
